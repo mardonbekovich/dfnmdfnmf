@@ -1,0 +1,17 @@
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  align-items: center;
+}
+.logo {
+  font-family: 'Candal', sans-serif;
+}
+.menu {
+  display: flex;
+  gap: 24px;
+  a {
+    color: black;
+  }
+}
